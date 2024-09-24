@@ -24,6 +24,9 @@ This project aims to develop a predictive model for Shield Insurance to estimate
 
 ## Building ML Models:
 Check out the [Experimentation](https://github.com/Sirilukkan/ml-project-premium-prediction/tree/main/Experimentation) section for data cleaning, preprocessing, and machine learning model building.
+## Model Accuracy:
+* XGBoost Regressor model with > 97% accuracy and < 10% error between predicted and actual premium amount.
+
 
 ## Building Apps:
 ![App Screenshot](https://github.com/user-attachments/assets/da91e49c-0e01-4404-a366-04a5490445f8)
@@ -32,3 +35,5 @@ Check out the [Experimentation](https://github.com/Sirilukkan/ml-project-premium
 
 ## Deploying the Application:
 You can access the deployed application here: [Streamlit App](https://ml-project-premium-prediction.streamlit.app/)
+
+
